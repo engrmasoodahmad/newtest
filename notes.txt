@@ -1,3 +1,0 @@
-Branches and Tags
-
-Merging and Rebase
